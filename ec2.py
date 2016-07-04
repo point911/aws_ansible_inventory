@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-'''
+"""
 EC2 external inventory script
 =================================
 
@@ -98,7 +98,7 @@ variable named:
 
 Security groups are comma-separated in 'ec2_security_group_ids' and
 'ec2_security_group_names'.
-'''
+"""
 
 # (c) 2012, Peter Sankauskas
 #
